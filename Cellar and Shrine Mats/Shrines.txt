@@ -1,0 +1,71 @@
+; Shrines
+; -----------
+ 
+; Amulet of Akatosh
+player.additem 000c8911 1
+
+; Amulet of Arkay
+player.additem 000cc848 1
+
+; Amulet of Dibella
+player.additem 000c8915 1
+
+; Amulet of Julianos
+player.additem 000c8917 1
+
+; Amulet of Kynareth
+player.additem 000c8919 1
+
+; Amulet of Mara
+player.additem 000c891b 1
+
+; Amulet of Stendarr
+player.additem 000cc844 1
+
+; Amulet of Talos
+player.additem 000cc846 1
+
+; Amulet of Zenithar
+player.additem 000878bb 1
+
+; 4 Silver Ingots
+player.additem 0005ace3 4
+
+; 3 Iron Ingots
+player.additem 0005ace4 3
+
+; 3 Steel Ingots
+player.additem 0005ace5 3
+
+; 2 Ebony Ingots
+player.additem 0005ad9d 2
+
+; 2 Gold Ingots
+player.additem 0005ad9e 2
+
+; 2 Orichalcum Ingots 
+player.additem 0005ad99 2
+
+; 2 Quicksilver Ingots
+player.additem 0005ada0 2
+
+; 2 Refined Malachite
+player.additem 0005ada1 2
+
+; 2 Refined Moonstone
+player.additem 0005ad9f 2
+
+; Corundum Ingot
+player.additem 0005ad93 1
+
+; Dragon Bone
+player.additem 0003ada4 1
+
+; Dragon Scales
+player.additem 0003ada3 1
+
+; Flawless Amethyst
+player.additem 0006851e 1
+
+; Flawless Sapphire
+player.additem 00068523 1

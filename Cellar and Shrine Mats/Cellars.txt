@@ -1,0 +1,62 @@
+; Cellars
+; -----------
+
+; Ingots
+; ----------------
+
+; 57 Iron Ingots
+player.additem 0005ace5 57
+
+; 30 Steel Ingots
+player.additem 0005ace5 30
+
+; 13 Corundum Ingots
+player.additem 0005ad93 13
+
+; Free
+; ----
+
+; 8 Clay
+player.additem 0003043 8
+
+; 17 Quarried Stone
+player.additem 000306c 17
+
+; Can Buy
+; -------
+
+; 1 Glass
+player.additem 0005A69 1
+
+; 6 Goat Horns
+player.additem 000303f 6
+
+; 8 Leather Strips
+player.additem 000800e4 8
+
+; 41 Sawn Logs
+player.additem 000300e 41
+
+; Hunting
+; -------
+
+;1 Bear Pelt
+player.additem 0003ad52 1
+
+; 1 Cave Bear Pelt
+player.additem 0003ad53 1
+
+; 1 Deer Hide
+player.additem 0003ad90 1
+
+; 1 Large Antlers
+player.additem 0006bc0a 1
+
+; 1 Sabre Cat Snow Pelt
+player.additem 0003ad6e 1
+
+; 2 Sabre Cat Teeth
+player.additem 0006bc04 2
+
+; 1 Small Antlers
+player.additem 0006bc0b 1

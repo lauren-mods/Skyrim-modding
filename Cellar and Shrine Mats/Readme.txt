@@ -1,0 +1,1 @@
+Put in your game folder (next to Skyrim exe) and use the commands bat shrines and bat cellars to spawn in mats.
