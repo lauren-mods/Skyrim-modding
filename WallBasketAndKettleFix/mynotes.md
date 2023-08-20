@@ -1,3 +1,5 @@
+# notes for myself
+
 ## What I did was:
 
 ### Identify references
