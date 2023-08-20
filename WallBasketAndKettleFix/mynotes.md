@@ -18,7 +18,6 @@ I tested the mod and found a hidden cabbage!
 
 I searched for wall basket 1 again and manually fixed the cabbage because there was no point in writing down the ref due to its hidden location.
 
-
 ## References
 
 ### Falkreath House (BYOHHouse1)
@@ -63,11 +62,10 @@ food venison
 kettle
 02017296
 
+### Other Refs
 
 hanging rack:
 BYOHHouse1InteriorRoom01Part093HangingRack01
-
-https://app.raindrop.io/my/36847101/item/631319275/web
 
 end table
 BYOHHouse1InteriorRoom01Part044TableEnd01
